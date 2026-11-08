@@ -1,0 +1,8 @@
+Title: Remote Work Policy
+
+Acme Corp supports hybrid work. Employees may work remotely up to 3 days per week with manager approval. When working remotely, you must:
+- Use the Acme Corp VPN for all access to internal systems.
+- Be available on Acme Chat during core hours (10 AM - 4 PM local time).
+- Ensure your home workspace meets ergonomic and security standards (locked screen, private area for calls).
+Remote work arrangements are reviewed quarterly. Fully remote positions require HR and VP approval. Equipment for home offices can be requested through IT.
+

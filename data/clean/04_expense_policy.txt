@@ -1,0 +1,4 @@
+Title: Expense Reimbursement Policy
+
+Employees may submit expense reports for approved business expenditures. All expenses must be submitted within 30 days of incurrence via the Finance Portal at https://finance.acmecorp.internal. Receipts are required for any expense over $25. Meals during travel are reimbursed up to $60 per day. Flights must be economy class unless pre-approved by a VP. Reimbursements are processed within 10 business days after manager approval. For questions, contact the Finance team at expenses@acmecorp.internal.
+

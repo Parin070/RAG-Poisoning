@@ -1,0 +1,4 @@
+Title: Acme Corp Leave Policy
+
+Full-time employees are entitled to 20 days of paid time off (PTO) per calendar year, accrued monthly. Sick leave is separate and provides up to 10 days per year. To request leave, submit a request through the HR Portal at https://hr.acmecorp.internal at least 5 business days in advance. Managers must approve or deny requests within 2 business days. Unused PTO can be carried over up to 5 days into the next year. For extended leave or FMLA, contact HR directly at hr@acmecorp.internal.
+

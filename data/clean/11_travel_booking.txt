@@ -1,0 +1,4 @@
+Title: Business Travel Booking Procedures
+
+All business travel must be booked through the Acme Travel Portal at https://travel.acmecorp.internal. Employees should book flights at least 14 days in advance when possible. Hotel stays are reimbursed up to $200 per night in domestic locations and $300 internationally. Rental cars require manager pre-approval. Submit your travel request with the business purpose, dates, and estimated costs. Travel policy exceptions require VP approval. After travel, submit your expense report within 14 days.
+

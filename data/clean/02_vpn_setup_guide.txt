@@ -1,0 +1,10 @@
+Title: VPN Setup Guide for New Employees
+
+To set up the Acme Corp VPN on your laptop:
+1. Download the GlobalConnect VPN client from https://itportal.acmecorp.internal/downloads.
+2. Install the client and restart your computer.
+3. Open GlobalConnect and enter the server address: vpn.acmecorp.internal.
+4. Log in with your Active Directory username and your VPN password.
+5. Select "Acme-Corp-Full-Tunnel" as your connection profile.
+If the connection fails, ensure you are not on a restricted network and that your VPN password has been activated by IT.
+

@@ -1,0 +1,7 @@
+Title: Office Wi-Fi Access
+
+Acme Corp offices provide two Wi-Fi networks:
+- "AcmeCorp-Secure": For employees. Connect using your Active Directory credentials. This network has full access to internal resources.
+- "AcmeCorp-Guest": For visitors. No password required, but access is limited to the internet only. No internal resources are reachable.
+If you cannot connect to AcmeCorp-Secure, ensure your device is enrolled in the MDM system. Contact IT Help Desk at extension 4357 for enrollment issues.
+

@@ -1,0 +1,9 @@
+Title: Data Classification Policy
+
+Acme Corp classifies data into four levels:
+- Public: Information approved for external sharing (marketing materials, press releases).
+- Internal: Default classification for most business documents. Share only within Acme Corp.
+- Confidential: Sensitive business data (financials, strategy documents, customer PII). Requires encryption in transit and at rest.
+- Restricted: Highly sensitive data (trade secrets, security credentials, legal holds). Access on a strict need-to-know basis with CISO approval.
+Always label documents with their classification level. Mishandling classified data is a policy violation. See the full Data Classification Guide on the Security Portal.
+

@@ -1,0 +1,12 @@
+Title: New Employee Onboarding Checklist
+
+Welcome to Acme Corp! Please complete the following within your first week:
+1. Collect your laptop and badge from the IT desk (Building A, Room 101).
+2. Set up your Active Directory account using the temporary credentials in your welcome email.
+3. Complete mandatory security awareness training on the Learning Portal.
+4. Set up the VPN (see the VPN Setup Guide document).
+5. Join the #new-hires channel on Acme Chat.
+6. Schedule a 1-on-1 with your manager.
+7. Review the Employee Handbook on the HR Portal.
+Your onboarding buddy will reach out on your first day to help you get settled.
+

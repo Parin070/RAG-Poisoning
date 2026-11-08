@@ -1,0 +1,4 @@
+Title: Booking Meeting Rooms
+
+Meeting rooms can be booked through Acme Calendar (Outlook). Each floor has 3 bookable rooms. Rooms with "VC" in the name are equipped with video conferencing hardware. Bookings are limited to 2 hours maximum. If you need a longer session, contact your admin assistant. Please release rooms you no longer need so others can use them. The large conference room on Floor 5 ("Pinnacle") seats 30 and requires VP-level approval to book.
+

@@ -1,0 +1,7 @@
+Title: IT Help Desk Hours and Support
+
+The Acme Corp IT Help Desk is available:
+- Monday to Friday: 7 AM - 7 PM (local time).
+- Emergency support (system outages, security incidents): 24/7 via extension 9111.
+For non-emergency issues, submit a ticket at https://itportal.acmecorp.internal/tickets or email helpdesk@acmecorp.internal. Average response time is 4 hours for standard tickets and 30 minutes for critical tickets. Walk-in support is available at the IT desk in Building A, Room 101 during business hours.
+

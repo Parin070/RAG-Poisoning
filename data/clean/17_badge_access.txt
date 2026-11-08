@@ -1,0 +1,4 @@
+Title: Building Badge and Access Control
+
+Your employee badge grants access to your assigned building and floors. Badge access is configured during onboarding. To request access to additional areas (labs, server rooms, executive floors), submit a request through the Security Portal with manager approval. Lost badges must be reported immediately to Physical Security at extension 9000. A temporary badge will be issued within 1 hour. Tailgating (following someone through a secured door without badging in) is a security violation.
+

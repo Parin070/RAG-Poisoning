@@ -1,0 +1,9 @@
+Title: Requesting New Software
+
+To request installation of software not in the standard catalog:
+1. Go to the IT Self-Service Portal and click "Software Request".
+2. Provide the software name, version, business justification, and your manager's name.
+3. IT Security will review the request within 3 business days for compliance and licensing.
+4. If approved, IT will push the installation to your device remotely.
+Do not install software from external sources without IT approval. Unauthorized software may be removed without notice per the Acceptable Use Policy.
+

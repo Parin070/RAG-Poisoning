@@ -1,0 +1,9 @@
+Title: How to Set Up Office Printers
+
+To add an office printer to your laptop:
+1. Open Settings > Printers & Scanners.
+2. Click "Add a printer" and search for network printers.
+3. Select the printer for your floor (e.g., "Floor3-PrinterA").
+4. If prompted, drivers will install automatically from the print server.
+For color printing, use printers labeled with "-Color" suffix. Black-and-white printing is default to save costs. If the printer is offline, submit a ticket to Facilities at facilities@acmecorp.internal.
+
